@@ -1,0 +1,11 @@
+* /receitas/<propriedade_id>
+
+  * Método: GET
+  * Parâmetros:
+    * propriedade_id: ID da propriedade
+
+  * Retorno:
+    * propriedade_id: ID da propriedade
+    * receita_proprietario: Receita do proprietário
+    * receita_anfitriao: Receita do anfitrião
+

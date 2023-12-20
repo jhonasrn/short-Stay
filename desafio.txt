@@ -1,0 +1,64 @@
+Otimização da distribuição de receitas para Acomodações de curta duração
+
+Visão Geral do Desafio:
+
+Sua tarefa é criar um Produto Mínimo Viável (MVP) simples para otimizando a distribuição de receitas para acomodações de curta duração na forma de trechos de código
+e desenhos de arquitetura do sistema.
+
+Você trabalhará em uma implementação em pequena escala para mostrar suas habilidades técnicas em Python, revisão de código e design de arquitetura de sistema.
+
+Adicionalmente, você será solicitado a criar uma apresentação para explicar seu trabalho, e todo o código e
+os materiais de apresentação devem ser hospedados em um repositório público do GitHub.
+
+Requisitos:
+Tratamento e análise de dados (Python):
+● Escreva código Python para ler arquivos CSV contendo dados de reserva (por exemplo, propriedade
+ID, data da reserva, receita, ID do proprietário, ID do anfitrião, porcentagem de comissão, etc.).
+
+● Calcule a distribuição de receitas para cada propriedade com base em um simples
+fórmula (como deve funcionar depende de você, mas você será avaliado tanto em
+lógica, implementação e documentação. Não tenha medo de manter as coisas simples.).
+
+● Envie a distribuição de receita calculada para um novo arquivo CSV contendo o
+receita de cada proprietário e anfitrião para cada mês.
+
+API (opcional):
+
+● Crie uma API simples (usando Flask ou qualquer outra estrutura web Python) que aceita IDs de propriedade e retorna sua distribuição de receita.
+
+● Certifique-se de que a API esteja bem documentada e seja fácil de usar.
+
+Revisão de código:
+● Realizar uma revisão do seu próprio código para garantir que ele siga as práticas recomendadas, é
+bem documentado e livre de problemas comuns (por exemplo, tratamento de erros, dados validação).
+
+● Quais seriam os próximos passos no desenvolvimento de código?
+Os próximos passos no desenvolvimento de código de distribuição de receitas podem incluir:
+    - Adicionar testes automatizados para garantir que todos os códigos funcionem corretamente.
+    - Adicionar suporte para outras operações, como criação e atualização de distribuições de receita.
+    - Melhorar o desempenho da API.
+​
+Desenho de Arquitetura do Sistema:
+● Crie um diagrama arquitetônico simplificado de como esse MVP se encaixaria em um PMS-Property Management System (sinta-se à vontade para fazer suposições sobre os dados
+estruturas ou sistemas existentes).
+
+● Destaque os componentes envolvidos (por exemplo, armazenamento de dados, API, processamento de dados) e como eles interagem.
+
+Apresentação:
+● Crie uma apresentação (por exemplo, PowerPoint, Apresentações Google) para explicar seu trabalho.
+A apresentação deve abranger todos os elementos exigidos.
+
+Repositório GitHub:
+● Hospede todo o seu código e materiais de apresentação em um repositório público do GitHub.
+O repositório deve incluir documentação clara e um arquivo README explicando como execute o código e acesse a apresentação.
+
+Submissão:
+● Forneça o link do repositório GitHub que contém seu código e apresentação.
+● Incluir código Python para manipulação e análise de dados, a API opcional se você optar por implemente-o e a documentação do seu código. 
+● Compartilhe um diagrama de arquitetura mostrando como esse MVP se encaixaria PMS-Sistema de Gestão de Propriedades.
+
+
+Avaliação: 
+Você será avaliado com base na qualidade do seu código, práticas de revisão de código, a eficácia do seu projeto arquitetônico e a clareza da sua apresentação.
+
+Além disso, a organização e documentação do seu repositório GitHub também serão avaliado.
